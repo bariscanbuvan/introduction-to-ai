@@ -1,0 +1,743 @@
+classified_type,size_brutto_m2,size_netto_m2,room_count,building_age,floor,total_floors_in_the_building,heating,bathroom_count,balcony,is_furnished,within_a_building_complex,from,price
+Flat,102,85,2+1,1,11,23,Central Heating Boilers (Natural Gas),2,Available,Yes,Yes,Real Estate Agency,31990 
+Flat,55,35,1+1,3,10,18,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,16500 
+Flat,85,55,2+1,Between 5-10,8,16,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,15500 
+Flat,110,100,2+1,Between 5-10,3,7,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,12500 
+Flat,67,55,1+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,8500 
+Flat,60,50,1+1,4,17,27,VRV,1,None,Yes,Yes,Owner,16500 
+Flat,100,90,3+1,0,1,6,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,15500 
+Flat,120,120,3+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,15000 
+Flat,50,45,Studio Flat (1+0),Between 5-10,2,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,10500 
+Flat,85,80,2+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,10000 
+Residence,45,35,Studio Flat (1+0),Between 5-10,11,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,9250 
+Flat,90,80,2+1,Between 5-10,2,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,12750 
+Flat,90,80,2+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,9250 
+Flat,125,110,2+1,Between 11-15,2,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,17500 
+Flat,160,145,3+1,Between 16-20,1,9,Central Heating Boilers (Natural Gas),3,Available,No,No,Real Estate Agency,18000 
+Flat,71,45,1+1,Between 5-10,15,19,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,11450 
+Flat,60,50,Studio Flat (1+0),3,3,27,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,9000 
+Flat,70,60,1+1,Between 5-10,2,8,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,15000 
+Flat,119,100,3+1,3,Garden-Floor,6,Floor Heating,2,Available,No,Yes,Real Estate Agency,19500 
+Flat,60,40,1+1,1,10,24,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,24750 
+Residence,123,78,2+1,Between 5-10,12,21,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,24000 
+Flat,100,80,2+1,Between 11-15,4,20,Central Heating Boilers (Natural Gas),2,Available,No,Yes,Real Estate Agency,19900 
+Flat,60,46,1+1,Between 5-10,9,18,VRV,1,None,Yes,Yes,Real Estate Agency,15000 
+Flat,77,50,1+1,3,13,16,Floor Heating,1,None,No,Yes,Real Estate Agency,20000 
+Residence,63,48,Studio Flat (1+0),Between 5-10,6,30 & Above,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,15000 
+Flat,55,45,Studio Flat (1+0),4,16,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,11500 
+Flat,85,75,2+1,4,4,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,20450 
+Flat,130,105,3+1,0,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,18000 
+Flat,80,70,2+1,4,2,5,Central Heating (Share Meter),1,Available,Not Specified,No,Owner,18000 
+Flat,135,120,3+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,14000 
+Flat,75,65,1+1,4,Ground Floor,3,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,12250 
+Flat,120,110,3+1,Between 5-10,2,4,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,12000 
+Flat,105,90,2+1,4,4,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,12000 
+Flat,95,80,2+1,Between 5-10,Raised Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,11500 
+Flat,65,50,1+1,Between 5-10,2,4,Central Heating,1,None,Yes,No,Real Estate Agency,18000 
+Residence,50,40,Studio Flat (1+0),Between 5-10,16,19,VRV,1,None,Yes,Yes,Real Estate Agency,13000 
+Flat,90,73,2+1,Between 5-10,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12250 
+Flat,95,85,2+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,19500 
+Flat,85,70,2+1,0,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,19000 
+Flat,150,125,3+1,Between 5-10,13,20,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,25000 
+Residence,50,40,Studio Flat (1+0),Between 5-10,16,18,VRV,1,None,Yes,Yes,Owner,15000 
+Flat,108,80,2+1,0,3,7,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,17500 
+Flat,105,85,2+1,0,2,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,15000 
+Flat,80,60,1+1,0,9,25,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,18000 
+Flat,65,60,1+1,4,Garden-Floor,4,Central Heating (Share Meter),1,None,Yes,No,Real Estate Agency,15000 
+Flat,40,25,Studio Flat (1+0),Between 11-15,1,10,Fan Coil Unit,1,Available,No,Yes,Real Estate Agency,13500 
+Flat,95,78,2+1,Between 5-10,12,18,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,15500 
+Flat,118,85,2+1,3,28,29,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,28000 
+Flat,62,45,1+1,Between 5-10,4,24,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,14000 
+Residence,40,35,Studio Flat (1+0),Between 5-10,2,30 & Above,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,8000 
+Flat,60,41,1+1,1,21,23,Floor Heating,1,Available,No,Yes,Real Estate Agency,19500 
+Flat,67,45,1+1,Between 5-10,14,30 & Above,Floor Heating,1,Available,Not Specified,Yes,Real Estate Agency,20000 
+Flat,176,160,3+1,Between 5-10,2,4,Central Heating (Share Meter),3,Available,Yes,Yes,Real Estate Agency,60000 
+Flat,110,95,3+1,Between 5-10,2,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,12500 
+Flat,70,50,1+1,2,22,24,Floor Heating,1,Available,Yes,Yes,Real Estate Agency,25000 
+Residence,22,15,Studio Flat (1+0),0,3,6,Central Heating,1,None,Yes,No,Owner,4500 
+Flat,102,85,2+1,1,10,23,Central Heating Boilers (Natural Gas),2,Available,Yes,Yes,Real Estate Agency,31990 
+Flat,150,145,3+1,Between 16-20,3,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,13000 
+Flat,140,130,3+1,Between 11-15,3,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,14000 
+Flat,65,55,1+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,6500 
+Residence,55,40,1+1,Between 5-10,4,27,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,14500 
+Flat,86,74,2+1,0,3,5,Central Heating (Share Meter),1,None,No,No,Real Estate Agency,20000 
+Flat,95,85,2+1,4,3,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13000 
+Residence,75,50,Studio Flat (1+0),Between 5-10,2,3,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,9250 
+Flat,120,105,3+1,Between 16-20,7,9,Floor Heating,1,Available,No,Yes,Real Estate Agency,20000 
+Residence,60,50,1+1,Between 5-10,13,22,VRV,1,None,Yes,Yes,Real Estate Agency,14000 
+Flat,90,80,2+1,Between 16-20,2,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,11000 
+Flat,66,48,1+1,Between 5-10,2,30 & Above,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,14500 
+Flat,196,150,3+1,Between 11-15,9,13,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,40500 
+Flat,43,32,Studio Flat (1+0),Between 5-10,2,24,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,9750 
+Flat,75,60,1+1,Between 5-10,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,12500 
+Flat,95,65,2+1,2,19,25,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,35000 
+Flat,110,95,2+1,Between 16-20,1,3,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,12500 
+Flat,100,85,3+1,Between 5-10,4,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,10500 
+Flat,110,90,2+1,Between 5-10,12,18,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,19000 
+Flat,80,70,2+1,Between 5-10,Elevation 2,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,9250 
+Flat,100,75,2+1,4,1,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,12000 
+Flat,110,100,3+1,Between 16-20,Raised Ground Floor,5,Central Heating Boilers (Natural Gas),None,Available,No,No,Real Estate Agency,13000 
+Flat,65,65,1+1,4,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,No,No,Owner,12000 
+Flat,100,82,2+1,4,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,14000 
+Flat,45,30,Studio Flat (1+0),Between 5-10,8,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,9000 
+Flat,90,75,2+1,Between 5-10,4,14,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,20000 
+Flat,90,82,2+1,3,2,4,Central Heating (Share Meter),1,Available,No,No,Real Estate Agency,13750 
+Flat,135,105,3+1,Between 5-10,3,7,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,35000 
+Flat,105,90,3+1,0,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,25000 
+Flat,55,50,1+1,2,Raised Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,8500 
+Flat,90,78,2+1,0,3,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,15000 
+Residence,123,80,2+1,Between 5-10,18,29,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,30000 
+Flat,123,91,2+1,Between 11-15,Garden-Floor,15,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,30250 
+Flat,100,80,2+1,3,4,7,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,15500 
+Flat,100,95,2+1,0,3,5,Central Heating (Share Meter),1,Available,No,No,Real Estate Agency,14000 
+Flat,125,105,3+1,Between 5-10,1,3,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,18000 
+Flat,45,40,1+1,Between 11-15,2,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,11500 
+Flat,95,70,2+1,Between 5-10,5,30 & Above,Central Heating (Share Meter),2,None,Yes,Yes,Real Estate Agency,20500 
+Flat,112,76,2+1,Between 5-10,3,26,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,21500 
+Flat,170,150,3+1,Between 5-10,8,26,Central Heating Boilers (Natural Gas),2,Available,No,Yes,Real Estate Agency,37500 
+Flat,100,90,2+1,Between 5-10,4,5,Central Heating (Share Meter),1,Available,No,No,Real Estate Agency,19000 
+Flat,70,50,1+1,Between 5-10,13,18,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,15000 
+Flat,103,73,2+1,0,3,7,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,13500 
+Flat,83,53,1+1,0,28,30 & Above,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,20000 
+Flat,109,90,2+1,1,Garden-Floor,24,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,36000 
+Residence,75,60,2+1,4,11,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,13000 
+Flat,200,180,3+1,Between 16-20,5,7,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,25000 
+Flat,22,15,Studio Flat (1+0),0,3,8,Central Heating,1,Available,Not Specified,No,Owner,3600 
+Flat,77,64,2+1,2,15,23,Central Heating Boilers (Natural Gas),2,Available,Yes,Yes,Real Estate Agency,34490 
+Flat,105,80,2+1,1,2,4,Central Heating Boilers (Natural Gas),1,Available,Yes,Yes,Owner,20000 
+Flat,75,60,1+1,0,3,4,Central Heating (Share Meter),1,None,No,No,Real Estate Agency,11000 
+Flat,120,95,3+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,20000 
+Flat,90,75,2+1,0,3,6,Central Heating (Share Meter),1,Available,No,No,Real Estate Agency,22000 
+Flat,90,80,1+1,3,Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,15750 
+Flat,95,80,2+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16500 
+Flat,65,40,1+1,Between 5-10,30 & Above,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,20000 
+Flat,88,75,2+1,Between 5-10,1,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,12000 
+Flat,90,80,2+1,Between 5-10,1,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,8250 
+Residence,46,30,Studio Flat (1+0),Between 5-10,7,19,VRV,1,None,Yes,Yes,Real Estate Agency,9000 
+Flat,85,75,2+1,2,2,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,18000 
+Flat,130,110,3+1,4,1,4,Central Heating (Share Meter),2,Available,No,No,Real Estate Agency,30000 
+Flat,50,35,Studio Flat (1+0),Between 5-10,12,19,VRV,1,None,Yes,Yes,Real Estate Agency,11500 
+Flat,110,100,3+1,Between 16-20,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,12000 
+Flat,150,120,3+1,Between 5-10,5,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,20000 
+Flat,85,80,2+1,4,Garden-Floor,3,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,11250 
+Flat,75,65,1+1,4,5,9,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,13500 
+Flat,60,53,1+1,0,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,15000 
+Flat,150,110,3+1,Between 11-15,1,5,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Owner,15500 
+Flat,110,90,2+1,Between 16-20,Raised Ground Floor,6,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,15000 
+Flat,115,100,2+1,4,Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,8000 
+Flat,85,75,2+1,0,Raised Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,10750 
+Flat,153,100,3+1,Between 5-10,19,29,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,30000 
+Flat,80,65,2+1,3,Ground Floor,4,Floor Heating,1,None,Yes,No,Real Estate Agency,14000 
+Flat,90,80,2+1,Between 5-10,3,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12000 
+Flat,120,90,3+1,3,7,9,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,20000 
+Flat,111,75,2+1,0,1,1,Floor Heating,2,Available,Yes,Yes,Real Estate Agency,30000 
+Flat,55,45,1+1,Between 5-10,2,4,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,9500 
+Flat,100,90,2+1,Between 11-15,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,13000 
+Flat,50,45,1+1,Between 5-10,2,4,Central Heating,1,None,Yes,No,Owner,20000 
+Flat,108,90,2+1,0,14,23,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,34490 
+Residence,58,45,1+1,Between 5-10,15,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,13000 
+Flat,75,70,1+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10000 
+Flat,115,100,2+1,4,3,4,Central Heating (Share Meter),1,Available,No,No,Real Estate Agency,18500 
+Residence,171,109,3+1,Between 5-10,13,17,Central Heating (Share Meter),1,Available,No,No,Real Estate Agency,27500 
+Flat,94,71,2+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,13250 
+Flat,65,55,1+1,Between 11-15,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12500 
+Flat,135,115,2+1,Between 5-10,Raised Ground Floor,8,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,13000 
+Flat,158,111,3+1,2,15,23,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,51850 
+Flat,44,37,1+1,1,8,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,16000 
+Flat,70,65,1+1,Between 5-10,Ground Floor,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,12000 
+Flat,60,40,1+1,Between 5-10,11,11,Central Heating Boilers (Natural Gas),1,Available,Yes,Yes,Real Estate Agency,15000 
+Flat,95,85,2+1,Between 11-15,5,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,4000 
+Flat,175,150,3+1,Between 5-10,3,5,Central Heating Boilers (Natural Gas),2,Available,No,No,Owner,14000 
+Flat,120,110,2+1,Between 16-20,4,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,15000 
+Flat,114,80,2+1,Between 5-10,9,12,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,22000 
+Flat,200,185,3+1,Between 16-20,1,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,19000 
+Flat,110,95,3+1,4,3,8,Floor Heating,2,None,No,No,Real Estate Agency,30000 
+Flat,75,70,2+1,Between 5-10,4,4,Central Heating,1,Available,Yes,No,Real Estate Agency,11750 
+Flat,48,40,Studio Flat (1+0),4,23,27,VRV,1,None,Yes,Yes,Real Estate Agency,14000 
+Residence,105,85,2+1,Between 5-10,26,30 & Above,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,16000 
+Residence,45,40,1+1,Between 11-15,3,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,12500 
+Flat,200,135,3+1,Between 5-10,8,30 & Above,VRV,3,Available,No,Yes,Real Estate Agency,40000 
+Flat,88,72,2+1,3,Garden-Floor,10,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,30000 
+Flat,110,100,2+1,Between 5-10,4,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,12000 
+Flat,75,65,2+1,4,6,11,Central Heating (Share Meter),1,Available,Yes,Yes,Owner,16000 
+Flat,100,85,2+1,Between 5-10,4,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,19000 
+Flat,140,100,3+1,Between 5-10,1,6,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,14750 
+Flat,85,75,2+1,Between 5-10,Garden-Floor,3,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,11250 
+Residence,70,50,1+1,3,Elevation 2,14,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,11000 
+Flat,40,25,Studio Flat (1+0),Between 5-10,4,6,VRV,1,None,Yes,Yes,Real Estate Agency,11500 
+Flat,70,55,1+1,1,2,30 & Above,Central Heating,1,Available,Yes,Yes,Real Estate Agency,22000 
+Residence,65,45,1+1,0,9,30 & Above,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,18000 
+Flat,60,50,1+1,4,2,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,17000 
+Flat,100,85,2+1,0,3,8,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,20000 
+Flat,80,65,2+1,0,2,7,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,19000 
+Flat,73,49,1+1,0,7,22,Floor Heating,1,Available,No,Yes,Real Estate Agency,18000 
+Flat,125,80,2+1,1,16,25,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,25000 
+Flat,70,60,2+1,Between 5-10,3,10,Central Heating Boilers (Natural Gas),1,None,Yes,No,Owner,4000 
+Flat,30,28,Studio Flat (1+0),3,3,6,Central Heating,1,None,Yes,No,Real Estate Agency,10000 
+Residence,45,35,Studio Flat (1+0),Between 5-10,17,25,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,16000 
+Flat,100,85,2+1,Between 5-10,4,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13250 
+Residence,89,77,2+1,Between 11-15,15,24,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,25000 
+Flat,95,85,2+1,4,6,6,Floor Heating,1,Available,No,No,Real Estate Agency,15000 
+Residence,52,32,Studio Flat (1+0),Between 5-10,4,30 & Above,Central Heating,1,None,No,Yes,Owner,10000 
+Flat,60,50,1+1,4,Ground Floor,4,Central Heating (Share Meter),1,None,Yes,No,Real Estate Agency,15000 
+Flat,80,80,1+1,Between 16-20,1,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,3750 
+Flat,99,61,1+1,Between 5-10,16,29,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,20000 
+Flat,90,80,2+1,Between 5-10,5,5,Central Heating (Share Meter),1,Available,Yes,No,Real Estate Agency,15000 
+Flat,92,75,2+1,Between 5-10,13,18,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,15000 
+Residence,50,35,Studio Flat (1+0),Between 5-10,10,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Owner,10500 
+Flat,85,70,2+1,Between 5-10,2,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,13000 
+Residence,95,65,2+1,3,13,18,Central Heating (Share Meter),1,None,No,No,Real Estate Agency,20000 
+Flat,195,147,3+1,Between 11-15,8,16,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,46000 
+Flat,83,61,1+1,Between 11-15,Elevation 4,14,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,18000 
+Flat,120,100,2+1,Between 5-10,3,3,Central Heating Boilers (Natural Gas),1,Available,Not Specified,No,Owner,15000 
+Flat,101,70,2+1,0,2,17,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,18750 
+Flat,80,75,2+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13500 
+Flat,130,115,3+1,Between 5-10,2,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,15000 
+Flat,80,49,Studio Flat (1+0),Between 5-10,5,6,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,14000 
+Flat,120,105,3+1,Between 5-10,1,3,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,20000 
+Flat,75,60,1+1,4,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,10000 
+Flat,80,75,2+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,15000 
+Flat,85,80,2+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,10000 
+Flat,95,80,2+1,Between 11-15,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,12500 
+Residence,150,120,3+1,Between 5-10,22,24,Central Heating (Share Meter),2,None,Yes,Yes,Real Estate Agency,40000 
+Flat,77,55,1+1,Between 5-10,5,26,Floor Heating,1,None,No,Yes,Real Estate Agency,15500 
+Residence,65,45,1+1,0,17,24,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,20000 
+Flat,156,111,3+1,Between 5-10,2,17,Central Heating (Share Meter),2,Available,No,Yes,Developer,33500 
+Flat,120,100,2+1,Between 5-10,2,3,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16000 
+Flat,110,75,2+1,1,1,3,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,30000 
+Flat,100,90,2+1,0,3,5,Central Heating (Share Meter),1,Available,No,No,Real Estate Agency,17500 
+Flat,105,90,2+1,4,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,9250 
+Flat,80,60,2+1,Between 11-15,5,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,13000 
+Residence,62,53,1+1,Between 5-10,15,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,14000 
+Flat,120,110,2+1,Between 11-15,1,9,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,13000 
+Flat,110,100,3+1,Between 11-15,1,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,30000 
+Flat,83,61,1+1,Between 11-15,Garden-Floor,15,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,18250 
+Flat,80,70,2+1,4,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,20500 
+Flat,100,80,2+1,4,4,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,24000 
+Residence,60,40,1+1,4,16,29,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,17000 
+Flat,103,75,2+1,Between 5-10,30 & Above,30 & Above,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,15500 
+Flat,75,60,1.5+1,0,Garden-Floor,3,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,13250 
+Flat,108,80,2+1,0,9,17,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,25750 
+Flat,80,64,2+1,2,4,6,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,30000 
+Flat,176,112,3+1,Between 5-10,28,30 & Above,Floor Heating,2,None,Yes,Yes,Real Estate Agency,37000 
+Flat,40,30,Studio Flat (1+0),Between 5-10,2,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,8500 
+Flat,100,70,2+1,1,Ground Floor,6,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,17500 
+Flat,100,85,2+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,19500 
+Flat,166,118,3+1,1,3,20,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,53500 
+Flat,80,75,2+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,15000 
+Flat,105,83,2+1,3,6,18,Central Heating Boilers (Natural Gas),1,None,Yes,Yes,Real Estate Agency,20000 
+Flat,100,85,2+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Developer,13250 
+Flat,110,90,2+1,Between 5-10,10,18,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,19000 
+Flat,110,90,2+1,Between 5-10,Raised Ground Floor,3,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,12500 
+Flat,115,105,3+1,1,6,15,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,30000 
+Flat,85,75,2+1,Between 11-15,Raised Ground Floor,6,Central Heating Boilers (Natural Gas),2,None,No,No,Real Estate Agency,15000 
+Flat,70,65,1+1,4,Raised Ground Floor,8,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12000 
+Flat,72,50,1+1,0,22,24,Floor Heating,1,Available,Yes,Yes,Real Estate Agency,24000 
+Flat,80,70,2+1,4,Raised Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,15250 
+Flat,62,45,1+1,Between 5-10,14,24,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,16000 
+Flat,100,85,2+1,3,3,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16000 
+Flat,50,45,1+1,Between 11-15,2,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,13500 
+Flat,130,115,2+2,3,4,4,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,25000 
+Flat,128,95,2+1,Between 11-15,8,12,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,22750 
+Flat,75,65,1+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,14000 
+Flat,90,80,1+1,3,Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,15750 
+Flat,120,110,3+1,0,1,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,23000 
+Flat,156,130,3+1,1,4,5,Central Heating,2,Available,Yes,Yes,Real Estate Agency,45990 
+Flat,80,70,1+1,4,Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,15750 
+Residence,105,85,2+1,Between 5-10,15,30 & Above,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,18000 
+Flat,90,80,1+1,Between 5-10,Penthouse,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,14000 
+Flat,115,102,3+1,4,2,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,25000 
+Flat,30,25,Studio Flat (1+0),Between 5-10,7,7,Central Heating Boilers (Natural Gas),1,None,Yes,No,Owner,5500 
+Flat,80,75,2+1,4,Garden-Floor,3,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,10500 
+Flat,142,98,2+1,0,21,30 & Above,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,27600 
+Flat,162,107,3+1,Between 5-10,9,17,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,32500 
+Flat,50,35,1+1,Between 5-10,3,6,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,11500 
+Flat,105,85,2+1,2,2,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,25000 
+Flat,65,60,1+1,4,Garden-Floor,3,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,8250 
+Flat,160,130,2+2,2,4,4,Central Heating (Share Meter),2,Available,No,No,Real Estate Agency,20000 
+Residence,100,90,2+1,Between 5-10,20,30 & Above,Central Heating (Share Meter),2,None,Yes,Yes,Real Estate Agency,18000 
+Flat,125,80,2+1,Between 5-10,Garden-Floor,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,10000 
+Flat,140,130,2+1,Between 16-20,Garden-Floor,6,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,10000 
+Flat,120,100,2+1,Between 5-10,3,8,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16000 
+Flat,100,90,2+1,Between 5-10,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,9750 
+Flat,90,85,2+1,4,4,6,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,14000 
+Flat,130,107,3+1,0,7,8,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,30000 
+Flat,80,65,1+1,Between 11-15,5,6,Central Heating Boilers (Natural Gas),1,Available,Yes,Yes,Real Estate Agency,22500 
+Flat,90,80,2+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12500 
+Flat,120,100,3+1,Between 5-10,Ground Floor,1,Central Heating Boilers (Natural Gas),1,None,No,No,Owner,23000 
+Flat,124,86,2+1,1,21,25,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,39000 
+Residence,100,80,2+1,Between 5-10,15,24,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,25000 
+Flat,72,60,2+1,3,Raised Ground Floor,6,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,18500 
+Flat,50,45,1+1,Between 11-15,2,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,13500 
+Flat,100,95,2+1,4,Penthouse,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10500 
+Flat,45,28,Studio Flat (1+0),4,6,19,Fan Coil Unit,1,None,Yes,Yes,Real Estate Agency,9700 
+Flat,90,80,2+1,Between 5-10,4,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,14500 
+Flat,196,146,3+1,Between 5-10,10,15,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,38500 
+Flat,90,75,2+1,4,Elevation 1,7,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,14000 
+Flat,105,83,2+1,3,13,18,Central Heating Boilers (Natural Gas),1,None,No,Yes,Real Estate Agency,19000 
+Flat,80,75,2+1,4,Garden-Floor,3,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,10500 
+Flat,42,32,Studio Flat (1+0),Between 5-10,24,24,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,10000 
+Flat,90,70,2+1,Between 5-10,5,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12000 
+Residence,55,40,1+1,4,3,19,VRV,1,None,Yes,Yes,Real Estate Agency,14250 
+Flat,90,70,2+1,Between 11-15,1,3,Central Heating Boilers (Natural Gas),1,Available,Yes,Yes,Real Estate Agency,16000 
+Flat,80,75,2+1,Between 5-10,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Developer,12500 
+Flat,100,75,2+1,3,Garden-Floor,15,Central Heating (Share Meter),2,Available,Yes,Yes,Owner,30000 
+Flat,105,80,2+1,Between 11-15,4,17,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,26000 
+Flat,125,100,2+1,Between 5-10,5,5,Central Heating (Share Meter),2,Available,Yes,No,Real Estate Agency,40000 
+Flat,140,120,3+1,0,1,4,Central Heating (Share Meter),2,Available,No,No,Real Estate Agency,30000 
+Flat,85,65,2+1,Between 11-15,2,10,Central Heating Boilers (Natural Gas),1,Available,Yes,Yes,Real Estate Agency,18000 
+Flat,45,40,1+1,Between 5-10,Basement,3,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,8000 
+Flat,62,40,1+1,Between 5-10,26,30 & Above,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,15000 
+Residence,50,27,Studio Flat (1+0),Between 5-10,13,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,15000 
+Flat,145,130,3+1,Between 16-20,4,8,Central Heating Boilers (Natural Gas),2,Available,No,Yes,Real Estate Agency,16000 
+Flat,74,55,2+1,1,1,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,15900 
+Flat,145,130,3+1,Between 5-10,2,10,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,21000 
+Flat,75,55,1+1,4,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10000 
+Flat,70,60,2+1,Between 5-10,2,4,Central Heating (Share Meter),1,Available,No,No,Real Estate Agency,20000 
+Flat,90,80,2+1,3,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,15750 
+Flat,120,105,3+1,Between 16-20,2,3,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,21000 
+Flat,50,40,1+1,Between 5-10,Ground Floor,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,16000 
+Flat,70,60,1+1,4,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10000 
+Flat,75,70,2+1,4,5,6,Central Heating Boilers (Natural Gas),1,Available,Not Specified,No,Real Estate Agency,12500 
+Flat,90,80,1+1,3,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,15750 
+Residence,109,78,2+1,1,2,3,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,29500 
+Flat,85,80,2+1,Between 5-10,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,11000 
+Flat,53,36,Studio Flat (1+0),Between 5-10,2,6,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,14500 
+Flat,22,15,Studio Flat (1+0),Between 16-20,5,8,Central Heating,1,None,Yes,No,Owner,4500 
+Residence,66,47,1+1,Between 5-10,30 & Above,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,18000 
+Flat,61,40,1+1,Between 5-10,28,30 & Above,Floor Heating,1,None,No,Yes,Real Estate Agency,14000 
+Flat,70,50,1+1,2,4,25,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,19500 
+Flat,75,60,2+1,0,1,5,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,19000 
+Flat,100,90,3+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),2,None,Yes,No,Real Estate Agency,15000 
+Residence,60,55,1+1,Between 11-15,2,5,Air Conditioning,1,None,Yes,No,Developer,15000 
+Residence,140,100,2+1,Between 5-10,2,24,Central Heating (Share Meter),2,None,Yes,Yes,Real Estate Agency,25000 
+Flat,105,80,2+1,Between 5-10,15,24,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,25000 
+Flat,55,45,1+1,Between 11-15,Ground Floor,5,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,10000 
+Flat,140,130,3+1,Between 16-20,3,5,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,13000 
+Flat,95,85,2.5+1,0,1,3,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,22000 
+Flat,120,110,2+2,Between 5-10,5,5,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,14500 
+Flat,75,70,2+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,Available,Not Specified,No,Real Estate Agency,10000 
+Flat,70,58,1+1,1,Garden-Floor,16,Floor Heating,1,Available,Yes,Yes,Real Estate Agency,24000 
+Flat,90,80,2+1,3,4,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,20000 
+Flat,110,90,3+1,Between 5-10,5,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,30000 
+Flat,100,75,1+1,Between 5-10,Ground Floor,3,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,13500 
+Flat,67,45,1+1,1,1,24,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,34000 
+Flat,150,120,3+1,Between 11-15,18,21,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,26000 
+Flat,75,60,1+1,Between 16-20,Garden-Floor,6,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,6500 
+Flat,72,50,1+1,1,11,20,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,24500 
+Flat,110,100,2+1,Between 5-10,3,3,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,11500 
+Flat,150,135,3+1,Between 11-15,4,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Developer,13000 
+Flat,45,30,Studio Flat (1+0),4,4,6,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,9200 
+Flat,120,95,2+1,4,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13000 
+Flat,120,75,2+1,2,22,24,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,29750 
+Flat,80,75,1+1,Between 5-10,5,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,12000 
+Flat,58,50,1+1,0,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,15500 
+Flat,47,35,Studio Flat (1+0),Between 5-10,19,19,VRV,1,None,No,Yes,Real Estate Agency,10500 
+Flat,80,75,2+1,0,Garden-Floor,5,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,19000 
+Flat,80,65,2+1,4,1,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Owner,14000 
+Flat,120,110,3+1,0,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,25000 
+Flat,75,55,1+1,Between 5-10,21,24,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,23000 
+Flat,85,75,2+1,Between 5-10,2,20,Floor Heating,1,Available,Yes,Yes,Real Estate Agency,25000 
+Flat,75,60,2+1,Between 5-10,Ground Floor,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,9000 
+Flat,70,65,1+1,4,5,5,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,14500 
+Flat,70,50,1+1,0,Ground Floor,10,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,20000 
+Flat,63,44,1+1,0,12,18,Central Heating (Share Meter),1,None,No,Yes,Developer,14750 
+Flat,60,40,1+1,3,15,29,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,22500 
+Flat,90,80,2+1,Between 11-15,Penthouse,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,10000 
+Flat,60,40,1+1,Between 5-10,15,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,14000 
+Flat,80,60,2+1,2,5,7,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,20000 
+Flat,150,140,3+1,Between 11-15,4,4,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,22000 
+Flat,90,80,2+1,4,2,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,12250 
+Flat,40,26,Studio Flat (1+0),Between 5-10,2,6,VRV,1,None,No,Yes,Real Estate Agency,9000 
+Flat,85,80,2+1,Between 5-10,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13500 
+Flat,95,85,2+1,Between 5-10,2,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,15500 
+Residence,91,60,2+1,1,19,25,Floor Heating,1,Available,No,Yes,Real Estate Agency,30000 
+Flat,60,40,1+1,1,10,24,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,24750 
+Flat,85,75,2+1,3,1,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,20000 
+Flat,82,61,1+1,Between 5-10,Garden-Floor,12,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,22000 
+Flat,90,80,2+1,Between 5-10,3,3,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,15000 
+Flat,100,90,2+1,Between 5-10,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Owner,3500 
+Flat,100,80,2+1,Between 5-10,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10250 
+Flat,65,40,1+1,Between 5-10,7,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,15500 
+Flat,90,80,2+1,3,2,4,Central Heating (Share Meter),1,Available,No,No,Real Estate Agency,20000 
+Flat,65,40,1+1,Between 5-10,5,19,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,11000 
+Flat,85,80,2+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,10000 
+Flat,50,40,Studio Flat (1+0),Between 16-20,2,2,Room Heater,1,None,Yes,No,Real Estate Agency,15000 
+Residence,65,60,1+1,1,4,7,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,12000 
+Residence,124,80,2+1,Between 5-10,28,29,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,28250 
+Flat,130,115,2+1,1,4,4,Central Heating (Share Meter),3,Available,Yes,No,Real Estate Agency,31000 
+Flat,125,100,2+1,Between 5-10,4,5,Central Heating (Share Meter),2,Available,No,No,Real Estate Agency,30000 
+Flat,85,75,1+1,Between 5-10,2,9,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,12000 
+Flat,150,120,3+1,Between 5-10,22,24,Central Heating (Share Meter),2,None,Yes,Yes,Real Estate Agency,40000 
+Flat,125,100,3+1,Between 5-10,1,4,Central Heating (Share Meter),2,Available,No,No,Real Estate Agency,30000 
+Flat,65,50,1+1,Between 5-10,2,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,11500 
+Flat,105,95,3+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,19000 
+Flat,75,65,1+1,4,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Developer,10000 
+Residence,47,38,Studio Flat (1+0),Between 5-10,19,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,11000 
+Flat,100,90,2+1,Between 11-15,Garden-Floor,4,Central Heating (Share Meter),1,None,Yes,No,Real Estate Agency,22000 
+Flat,120,100,3+1,Between 16-20,3,8,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,15000 
+Flat,110,75,2+1,0,1,2,Floor Heating,2,Available,No,Yes,Real Estate Agency,37500 
+Flat,128,95,2+1,Between 11-15,Garden-Floor,12,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,28250 
+Residence,48,35,Studio Flat (1+0),Between 5-10,14,19,VRV,1,None,Yes,Yes,Real Estate Agency,11500 
+Flat,88,73,2+1,2,15,19,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,25000 
+Residence,40,35,Studio Flat (1+0),4,10,19,Central Heating (Share Meter),1,None,No,No,Real Estate Agency,7000 
+Flat,90,70,2+1,0,1,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16000 
+Flat,112,77,2+1,Between 5-10,Ground Floor,17,Central Heating (Share Meter),2,None,No,Yes,Developer,22500 
+Flat,105,85,2+1,Between 11-15,14,20,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,22500 
+Flat,118,102,3+1,4,2,4,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,25000 
+Flat,120,100,2+1,Between 16-20,10,13,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,10750 
+Flat,88,75,1+1,Between 11-15,Garden-Floor,8,Central Heating Boilers (Natural Gas),1,None,Yes,Yes,Real Estate Agency,25000 
+Residence,60,40,Studio Flat (1+0),Between 5-10,17,19,VRV,1,None,Yes,Yes,Real Estate Agency,11500 
+Flat,100,83,2+1,Between 5-10,4,6,Central Heating (Share Meter),2,Available,Yes,No,Real Estate Agency,22000 
+Flat,153,100,3+1,Between 5-10,19,30 & Above,VRV,2,Available,Yes,Yes,Real Estate Agency,45000 
+Flat,90,80,1+1,3,Ground Floor,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,15750 
+Flat,80,70,2+1,2,3,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,14000 
+Flat,70,50,1+1,1,15,24,Floor Heating,1,Available,Yes,Yes,Real Estate Agency,20000 
+Residence,47,40,Studio Flat (1+0),Between 5-10,17,30 & Above,Central Heating,1,None,Yes,Yes,Owner,10000 
+Flat,120,105,3+1,4,2,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,22000 
+Flat,60,55,2+1,0,2,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,14500 
+Flat,50,40,1+1,0,1,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,17000 
+Flat,120,100,2+1,4,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Developer,13000 
+Flat,89,74,2+1,0,1,5,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,16000 
+Flat,90,70,2+1,0,1,6,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,15000 
+Flat,142,99,2+1,0,5,18,Central Heating (Share Meter),2,Available,No,Yes,Developer,23500 
+Flat,107,75,2+1,2,21,21,Central Heating,1,Available,No,Yes,Real Estate Agency,30000 
+Flat,49,42,1+1,0,3,17,Central Heating (Share Meter),1,None,No,Yes,Owner,15000 
+Flat,85,80,2+1,Between 5-10,Ground Floor,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,8500 
+Flat,100,90,2+1,2,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,13250 
+Residence,108,85,2+1,Between 5-10,14,30 & Above,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,16000 
+Flat,125,120,3+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,12500 
+Flat,75,70,2+1,4,1,4,Central Heating (Share Meter),1,None,No,No,Real Estate Agency,15000 
+Flat,185,180,3+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),2,Available,No,Yes,Owner,50000 
+Flat,95,85,2+1,4,3,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13000 
+Flat,150,145,3+1,Between 16-20,2,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,13000 
+Residence,110,95,2+1,Between 5-10,11,30 & Above,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,22000 
+Flat,147,94,2+1,0,5,30 & Above,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,25000 
+Flat,100,85,2+1,Between 16-20,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,15000 
+Flat,65,55,1+1,Between 5-10,16,25,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,22000 
+Flat,110,75,2+1,0,1,1,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,39600 
+Flat,51,46,1+1,4,17,18,VRV,1,None,Yes,Yes,Real Estate Agency,15000 
+Flat,53,45,Studio Flat (1+0),Between 5-10,11,19,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,12500 
+Flat,60,55,1+1,0,4,7,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,12500 
+Flat,60,45,Studio Flat (1+0),3,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,13550 
+Residence,60,40,1+1,Between 5-10,3,19,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,14000 
+Flat,170,119,3+1,0,15,18,Central Heating (Share Meter),2,Available,No,Yes,Developer,30000 
+Flat,120,95,2+1,4,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,13000 
+Flat,70,50,2+1,Between 11-15,4,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,15000 
+Flat,75,55,1+1,4,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,10250 
+Flat,46,25,Studio Flat (1+0),Between 5-10,5,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,9600 
+Flat,115,95,2+1,Between 11-15,5,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,13000 
+Flat,145,130,3+1,Between 16-20,5,7,Central Heating Boilers (Natural Gas),2,Available,No,No,Owner,25000 
+Flat,75,65,2+1,Between 11-15,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,15000 
+Flat,45,40,1+1,Between 11-15,2,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,11500 
+Flat,130,120,3+1,Between 11-15,3,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,13000 
+Flat,147,110,2+1,0,1,2,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,35000 
+Flat,85,70,2+1,4,3,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,20000 
+Flat,46,30,Studio Flat (1+0),Between 5-10,7,19,VRV,1,None,Yes,Yes,Real Estate Agency,9500 
+Flat,135,100,3+1,4,6,15,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,27500 
+Flat,90,80,2+1,Between 5-10,Elevation 2,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,10000 
+Flat,110,100,2+1,1,9,20,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,17000 
+Flat,50,47,Studio Flat (1+0),Between 5-10,19,19,Central Heating,1,None,Yes,Yes,Developer,11000 
+Flat,82,52,1+1,0,18,30 & Above,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,17500 
+Flat,70,60,1+1,4,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10000 
+Flat,125,120,3+1,0,6,7,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,17500 
+Flat,95,85,2+1,0,1,5,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,24000 
+Flat,65,55,1+1,4,3,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,14250 
+Flat,67,45,1+1,1,18,24,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,27000 
+Flat,67,44,1+1,Between 5-10,16,17,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,16500 
+Flat,105,95,2+1,Between 16-20,Ground Floor,2,Central Heating Boilers (Natural Gas),2,None,No,Yes,Real Estate Agency,9000 
+Residence,47,35,Studio Flat (1+0),Between 5-10,14,19,Floor Heating,1,None,Yes,Yes,Real Estate Agency,11000 
+Flat,135,100,2+1,Between 5-10,2,24,Central Heating (Share Meter),2,None,Yes,Yes,Real Estate Agency,25000 
+Flat,90,80,2+1,Between 5-10,5,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12000 
+Flat,83,63,1+1,Between 11-15,Garden-Floor,15,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,18500 
+Flat,100,85,2+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,19500 
+Flat,90,90,2+1,0,3,6,Central Heating (Share Meter),1,Available,No,No,Real Estate Agency,13000 
+Flat,80,70,2+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,6000 
+Flat,250,80,2+1,0,Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,40000 
+Flat,85,65,1+1,4,2,11,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,15500 
+Flat,45,40,1+1,Between 11-15,3,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,11500 
+Flat,46,25,Studio Flat (1+0),Between 5-10,6,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,9500 
+Flat,73,60,2+1,Between 5-10,5,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10000 
+Flat,43,27,Studio Flat (1+0),Between 5-10,30 & Above,30 & Above,VRV,1,None,No,Yes,Real Estate Agency,10750 
+Residence,105,85,2+1,Between 5-10,13,30 & Above,Central Heating (Share Meter),2,None,Yes,Yes,Real Estate Agency,18000 
+Flat,128,105,3+1,4,6,11,Central Heating (Share Meter),2,Available,No,No,Real Estate Agency,29000 
+Flat,85,70,2+1,Between 5-10,Ground Floor,4,Central Heating (Share Meter),1,None,No,No,Real Estate Agency,20000 
+Flat,60,50,1+1,Between 5-10,2,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,10000 
+Flat,50,40,Studio Flat (1+0),Between 5-10,2,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,9000 
+Flat,70,50,1+1,0,4,23,Central Heating,1,Available,Yes,Yes,Real Estate Agency,22000 
+Flat,85,70,2+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,17000 
+Flat,130,98,2+1,Between 11-15,Garden-Floor,15,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,29500 
+Flat,150,125,3+1,Between 11-15,7,9,Central Heating Boilers (Natural Gas),1,Available,No,Yes,Real Estate Agency,25000 
+Flat,100,80,2+1,0,3,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,30000 
+Flat,135,120,3+1,Between 11-15,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,25000 
+Flat,90,85,2+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,10000 
+Flat,70,41,1+1,2,2,20,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,18000 
+Flat,89,57,2+1,Between 5-10,10,22,Fan Coil Unit,1,None,Yes,Yes,Real Estate Agency,30000 
+Flat,135,110,3+1,2,5,7,Central Heating (Share Meter),2,Available,Yes,No,Real Estate Agency,20000 
+Flat,120,87,3+1,0,10,14,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,28000 
+Flat,84,72,2+1,0,4,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,13750 
+Flat,55,40,1+1,Between 16-20,3,5,Air Conditioning,1,None,Yes,No,Real Estate Agency,12000 
+Flat,80,50,2+1,Between 5-10,11,22,VRV,1,None,Yes,Yes,Real Estate Agency,20000 
+Flat,75,65,2+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16250 
+Flat,60,40,Studio Flat (1+0),2,16,27,VRV,1,None,Yes,Yes,Real Estate Agency,10500 
+Flat,90,70,1+1,3,3,3,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,17500 
+Flat,35,30,Studio Flat (1+0),Between 5-10,3,5,Central Heating,1,None,Yes,No,Real Estate Agency,10000 
+Flat,78,55,1+1,Between 5-10,11,11,Central Heating Boilers (Natural Gas),1,Available,Yes,Yes,Real Estate Agency,17500 
+Flat,95,85,2+1,4,5,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12500 
+Residence,95,85,2+1,Between 5-10,14,26,Central Heating (Share Meter),1,Available,Yes,Yes,Owner,28000 
+Residence,60,45,1+1,Between 5-10,15,19,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,13500 
+Flat,70,60,1+1,Between 5-10,Penthouse,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,10000 
+Residence,162,140,3+1,4,5,30 & Above,Central Heating (Share Meter),2,Available,No,Yes,Owner,31400 
+Flat,110,90,3+1,Between 11-15,Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,17000 
+Flat,90,85,1+1,Between 5-10,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10000 
+Flat,65,55,1+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Developer,8500 
+Flat,65,55,1.5+1,Between 5-10,21,26,Central Heating Boilers (Natural Gas),1,Available,Yes,Yes,Real Estate Agency,26000 
+Residence,52,32,Studio Flat (1+0),Between 5-10,21,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,11000 
+Flat,135,115,3+1,Between 5-10,14,17,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,42000 
+Flat,80,70,2+1,Between 16-20,Raised Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,Not Specified,No,Owner,13000 
+Flat,125,100,3+1,4,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,20000 
+Flat,142,100,2+1,0,4,30 & Above,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,30000 
+Flat,100,85,2+1,Between 5-10,3,3,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Developer,15000 
+Flat,88,70,2+1,1,2,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,18750 
+Residence,45,35,Studio Flat (1+0),Between 5-10,16,30 & Above,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,7000 
+Flat,83,61,1+1,Between 11-15,3,14,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,17000 
+Flat,80,70,2+1,Between 5-10,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,9500 
+Flat,95,85,2+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,18500 
+Flat,70,55,1+1,1,2,30 & Above,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,22000 
+Flat,95,85,2+1,Between 5-10,2,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,24500 
+Flat,160,140,3+1,Between 16-20,2,6,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,13500 
+Residence,80,50,2+1,Between 5-10,5,22,VRV,1,None,Yes,Yes,Real Estate Agency,100000 
+Flat,165,145,3+1,4,4,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,25000 
+Flat,65,55,1+1,Between 5-10,Ground Floor,6,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13000 
+Flat,120,110,3+1,0,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,25000 
+Flat,80,60,1+1,Between 5-10,3,30 & Above,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,16500 
+Flat,110,95,2+1,Between 5-10,5,6,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,21000 
+Residence,48,38,Studio Flat (1+0),Between 5-10,4,30 & Above,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,8000 
+Residence,47,30,Studio Flat (1+0),Between 5-10,16,19,VRV,1,None,Yes,Yes,Real Estate Agency,14000 
+Flat,85,85,2+1,Between 5-10,Penthouse,3,Central Heating Boilers (Natural Gas),1,Available,Not Specified,No,Owner,15000 
+Flat,70,55,1+1,Between 5-10,Raised Ground Floor,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,9000 
+Flat,45,30,Studio Flat (1+0),4,7,29,VRV,1,None,Yes,Yes,Real Estate Agency,9500 
+Flat,85,64,1+1,Between 5-10,3,6,VRV,1,None,No,Yes,Real Estate Agency,17000 
+Flat,108,70,2+1,0,7,17,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,23000 
+Flat,65,50,1+1,Between 5-10,Elevation 1,3,Central Heating Boilers (Natural Gas),1,None,Yes,No,Developer,10000 
+Flat,65,60,1+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,8500 
+Flat,65,55,1+1,1,6,6,Central Heating (Share Meter),1,None,Yes,No,Real Estate Agency,12000 
+Flat,95,80,2+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,18500 
+Flat,150,145,3+1,Between 16-20,6,8,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,11000 
+Residence,75,65,1+1,Between 5-10,11,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,16500 
+Flat,70,65,1+1,Between 5-10,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,10000 
+Flat,110,100,3+1,Between 16-20,Raised Ground Floor,6,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,13000 
+Flat,70,65,1+1,4,Garden-Floor,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,9000 
+Flat,230,196,3+1,Between 11-15,13,20,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,50000 
+Flat,80,70,2+1,Between 16-20,1,5,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,13000 
+Flat,100,85,2+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,19500 
+Flat,95,75,2+1,Between 5-10,10,18,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,15500 
+Flat,125,110,3+1,0,3,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,23500 
+Residence,142,97,2+1,0,16,30 & Above,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,27000 
+Flat,85,80,2+1,Between 11-15,Raised Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,10000 
+Flat,90,80,2+1,Between 5-10,3,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13000 
+Flat,65,65,1+1,Between 16-20,1,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Developer,10000 
+Flat,61,46,1+1,1,21,24,Floor Heating,1,Available,No,Yes,Real Estate Agency,20000 
+Flat,85,80,2+1,Between 5-10,3,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13000 
+Flat,85,75,2+1,Between 5-10,Penthouse,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,12000 
+Flat,99,66,2+1,2,13,15,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,38000 
+Flat,95,85,2+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,10000 
+Flat,55,40,Studio Flat (1+0),4,14,30 & Above,VRV,1,None,Yes,Yes,Real Estate Agency,9000 
+Flat,110,90,3+1,Between 5-10,Garden-Floor,6,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,22000 
+Flat,75,70,1+1,4,Elevation 1,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,12000 
+Flat,100,85,2+1,Between 5-10,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),2,None,No,No,Real Estate Agency,13750 
+Flat,130,120,3+1,0,3,5,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,25000 
+Flat,70,60,2+1,4,1,4,Central Heating (Share Meter),1,None,No,No,Real Estate Agency,15000 
+Flat,65,55,1+1,Between 16-20,Garden-Floor,5,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,8500 
+Flat,25,25,2+1,0,3,7,Central Heating Boilers (Natural Gas),1,Available,Yes,Yes,Owner,3500 
+Flat,25,25,Studio Flat (1+0),3,3,5,Central Heating,1,None,Yes,No,Real Estate Agency,10000 
+Flat,30,25,Studio Flat (1+0),3,3,6,Air Conditioning,1,None,Yes,No,Real Estate Agency,10000 
+Flat,100,66,2+1,0,4,26,Floor Heating,2,Available,No,Yes,Real Estate Agency,27500 
+Flat,135,115,3+1,Between 5-10,2,6,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,20000 
+Flat,120,120,3+1,Between 16-20,6,6,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,21000 
+Flat,85,70,2+1,Between 16-20,4,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,15000 
+Flat,75,65,2+1,1,1,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,16250 
+Flat,105,95,3+1,0,3,4,Central Heating Boilers (Natural Gas),1,Available,Not Specified,No,Real Estate Agency,25000 
+Flat,80,70,2+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,9000 
+Flat,100,95,2+1,Between 5-10,9,9,Central Heating Boilers (Natural Gas),2,Available,No,Yes,Real Estate Agency,30000 
+Flat,130,120,3+1,Between 11-15,5,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,15000 
+Flat,90,80,2+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13000 
+Residence,150,130,3+1,Between 5-10,16,24,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,28000 
+Flat,65,48,1+1,1,11,20,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,24000 
+Flat,65,41,1+1,2,10,15,Floor Heating,1,Available,Yes,Yes,Real Estate Agency,21000 
+Flat,115,90,2+1,Between 5-10,15,18,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,20000 
+Flat,130,120,3+1,Between 16-20,7,9,Central Heating Boilers (Natural Gas),1,Available,No,Yes,Owner,18500 
+Flat,30,25,Studio Flat (1+0),3,Elevation 1,4,Central Heating,1,None,Yes,No,Real Estate Agency,10000 
+Flat,75,65,2+1,Between 16-20,Garden-Floor,1,Room Heater,1,None,No,No,Real Estate Agency,9000 
+Flat,125,80,2+1,Between 5-10,12,29,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,25500 
+Flat,80,75,2+1,Between 5-10,Garden-Floor,5,Central Heating Boilers (Natural Gas),1,None,Not Specified,No,Real Estate Agency,9000 
+Flat,60,50,1+1,Between 5-10,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,9000 
+Flat,45,41,1+1,2,1,5,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,12499 
+Flat,89,74,2+1,0,1,5,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,17000 
+Flat,65,44,1+1,Between 5-10,2,17,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,16000 
+Flat,75,65,1+1,Between 16-20,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,None,No,No,Owner,11500 
+Flat,125,105,3+1,Between 5-10,7,8,Central Heating Boilers (Natural Gas),2,Available,No,Yes,Real Estate Agency,20000 
+Residence,43,25,Studio Flat (1+0),Between 5-10,8,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,9500 
+Flat,30,28,Studio Flat (1+0),4,3,5,Central Heating,1,None,Yes,No,Real Estate Agency,10000 
+Flat,70,65,2+1,Between 5-10,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,No,No,Owner,12250 
+Flat,100,80,1+1,Between 5-10,5,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10000 
+Flat,110,100,3+1,0,1,4,Central Heating Boilers (Natural Gas),2,None,No,No,Real Estate Agency,23500 
+Residence,78,62,2+1,1,15,22,VRV,1,None,Yes,Yes,Real Estate Agency,22500 
+Flat,55,50,1+1,Between 11-15,1,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,11500 
+Flat,60,42,1+1,Between 5-10,30 & Above,30 & Above,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,13500 
+Flat,50,40,Studio Flat (1+0),Between 5-10,8,17,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,12000 
+Flat,135,104,3+1,0,6,11,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,29500 
+Flat,63,48,Studio Flat (1+0),Between 5-10,6,30 & Above,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,15000 
+Flat,100,90,2+1,3,4,5,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,15000 
+Flat,90,70,2+1,0,4,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16500 
+Flat,55,50,Studio Flat (1+0),Between 5-10,3,30 & Above,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,8000 
+Flat,100,90,2+1,4,Penthouse,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12500 
+Flat,40,35,1+1,Between 16-20,4,5,Central Heating (Share Meter),1,None,Yes,No,Real Estate Agency,11500 
+Flat,110,90,2+1,1,4,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,19250 
+Flat,89,74,2+1,0,1,5,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,16000 
+Flat,120,100,3+1,Between 16-20,1,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Developer,20000 
+Flat,90,75,2+1,Between 5-10,Garden-Floor,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,8100 
+Flat,68,45,1+1,0,3,25,Central Heating,1,Available,Yes,Yes,Real Estate Agency,22000 
+Flat,154,99,2+1,0,Garden-Floor,17,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,23500 
+Flat,85,75,2+1,2,1,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,23000 
+Flat,35,30,Studio Flat (1+0),3,3,5,Central Heating,1,None,Yes,No,Real Estate Agency,10000 
+Flat,125,95,3+1,4,13,16,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,20000 
+Flat,130,120,3+1,Between 5-10,2,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,14000 
+Flat,90,80,2+1,4,4,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,20000 
+Flat,70,65,1+1,Between 5-10,Garden-Floor,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,8750 
+Flat,200,150,3+1,Between 5-10,4,5,Central Heating Boilers (Natural Gas),2,Available,No,Yes,Real Estate Agency,22000 
+Flat,85,75,2+1,Between 5-10,1,5,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,8450 
+Flat,108,75,2+1,1,18,20,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,27225 
+Flat,108,91,2+1,1,10,16,Floor Heating,2,Available,No,Yes,Real Estate Agency,28500 
+Flat,65,58,1+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12750 
+Residence,66,56,1+1,4,9,21,Central Heating Boilers (Natural Gas),1,None,Yes,Yes,Real Estate Agency,21000 
+Flat,70,55,2+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,12000 
+Flat,90,70,2+1,4,3,5,Central Heating,1,Available,Yes,No,Real Estate Agency,19500 
+Flat,105,68,2+1,2,6,18,Central Heating (Share Meter),1,None,Yes,Yes,Developer,19000 
+Residence,48,32,Studio Flat (1+0),Between 5-10,18,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,9500 
+Flat,90,80,2+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Developer,12500 
+Flat,80,70,2+1,Between 5-10,4,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12000 
+Flat,75,65,2+1,Between 5-10,Penthouse,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12500 
+Flat,103,83,2+1,4,Raised Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,13000 
+Flat,145,110,3+1,Between 5-10,16,24,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,29000 
+Flat,60,36,1+1,1,15,25,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,18000 
+Flat,85,75,2+1,Between 5-10,Raised Ground Floor,4,Central Heating (Share Meter),1,Available,Yes,No,Real Estate Agency,21000 
+Flat,83,61,1+1,Between 11-15,5,15,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,16000 
+Residence,85,75,2+1,3,Garden-Floor,10,Central Heating (Share Meter),2,Available,Yes,No,Real Estate Agency,30000 
+Flat,72,50,1+1,1,17,24,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,20000 
+Flat,95,80,2+1,0,1,9,Central Heating (Share Meter),2,Available,No,No,Real Estate Agency,20000 
+Flat,68,55,1+1,2,16,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,16000 
+Residence,65,55,1+1,Between 5-10,13,20,VRV,1,None,Yes,Yes,Real Estate Agency,15000 
+Flat,75,65,1+1,Between 16-20,Raised Ground Floor,6,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,8990 
+Flat,100,80,2+1,Between 5-10,5,6,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,24000 
+Flat,70,60,1+1,Between 5-10,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10000 
+Flat,55,40,1+1,Between 5-10,1,3,Air Conditioning,1,None,Yes,No,Real Estate Agency,10000 
+Residence,46,25,Studio Flat (1+0),Between 5-10,14,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,8800 
+Flat,90,75,2+1,Between 16-20,2,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16000 
+Residence,80,50,1+1,4,6,19,VRV,1,None,Yes,Yes,Real Estate Agency,13000 
+Flat,130,110,3+1,Between 11-15,4,4,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,13500 
+Flat,95,85,2+1,Between 11-15,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12500 
+Flat,61,41,1+1,1,15,24,Floor Heating,1,Available,No,Yes,Real Estate Agency,18000 
+Flat,80,70,2+1,Between 5-10,2,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16500 
+Residence,55,35,Studio Flat (1+0),Between 5-10,13,27,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,10000 
+Flat,145,130,3+1,4,10,14,Central Heating (Share Meter),2,Available,Yes,No,Real Estate Agency,35000 
+Flat,85,78,1+1,2,5,6,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,17000 
+Residence,65,55,1+1,Between 5-10,11,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,13000 
+Flat,80,75,2+1,4,Garden-Floor,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,10000 
+Flat,80,75,2+1,Between 5-10,4,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13500 
+Flat,40,35,2+1,Between 16-20,Garden-Floor,8,Central Heating Boilers (Natural Gas),1,None,Yes,No,Owner,3000 
+Flat,200,145,2+1,4,22,30 & Above,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,45000 
+Flat,156,120,3+1,Between 5-10,13,30 & Above,Central Heating Boilers (Natural Gas),2,Available,Yes,Yes,Real Estate Agency,36000 
+Residence,48,30,Studio Flat (1+0),Between 5-10,4,19,VRV,1,None,Yes,Yes,Real Estate Agency,11500 
+Flat,60,50,1+1,Between 5-10,13,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,22500 
+Flat,70,60,2+1,Between 5-10,3,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10000 
+Flat,95,80,2+1,Between 11-15,3,4,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,12500 
+Flat,30,25,Studio Flat (1+0),Between 11-15,3,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,10500 
+Flat,140,120,3+1,Between 16-20,Raised Ground Floor,11,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Owner,25000 
+Flat,120,95,3+1,0,3,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,25000 
+Residence,48,38,Studio Flat (1+0),Between 5-10,5,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,7000 
+Flat,65,50,1+1,4,3,16,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,14000 
+Flat,72,49,1+1,1,11,24,Floor Heating,1,Available,No,Yes,Real Estate Agency,19000 
+Flat,70,45,1+1,Between 5-10,4,30 & Above,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,14500 
+Flat,70,60,1+1,Between 5-10,3,6,Central Heating Boilers (Natural Gas),1,None,Not Specified,Yes,Owner,11750 
+Flat,80,70,2+1,4,Ground Floor,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,15000 
+Flat,45,40,1+1,Between 11-15,2,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,12500 
+Residence,49,37,Studio Flat (1+0),4,6,19,VRV,1,None,Yes,Yes,Real Estate Agency,12000 
+Flat,60,50,1+1,Between 5-10,Ground Floor,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,8000 
+Flat,110,100,2+1,4,4,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16000 
+Flat,70,55,Studio Flat (1+0),Between 5-10,15,19,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,13000 
+Flat,150,120,3+1,Between 11-15,3,4,Central Heating Boilers (Natural Gas),1,Available,Not Specified,No,Owner,11500 
+Flat,63,41,1+1,2,15,15,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,28050 
+Flat,78,50,1+1,0,13,30 & Above,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,18000 
+Flat,45,40,1+1,Between 11-15,1,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,11500 
+Flat,100,95,3+1,Between 5-10,4,5,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Real Estate Agency,20000 
+Flat,70,55,1+1,Between 11-15,1,5,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,8500 
+Flat,80,65,2+1,Between 11-15,5,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,12000 
+Flat,80,55,1+1,0,22,25,Central Heating (Share Meter),1,Available,Yes,Yes,Real Estate Agency,30000 
+Flat,98,75,2+1,Between 5-10,10,18,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,15750 
+Residence,67,55,1+1,Between 5-10,10,19,VRV,1,None,Yes,Yes,Owner,30000 
+Residence,110,90,2+1,Between 5-10,11,30 & Above,Central Heating (Share Meter),2,None,No,Yes,Real Estate Agency,15000 
+Flat,120,100,3+1,0,1,4,Central Heating Boilers (Natural Gas),2,None,No,No,Real Estate Agency,23500 
+Flat,110,75,2+1,1,1,3,Central Heating (Share Meter),2,Available,Not Specified,Yes,Real Estate Agency,30000 
+Flat,80,80,2+1,Between 16-20,4,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,3000 
+Flat,60,50,1+1,Between 5-10,Ground Floor,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,11000 
+Flat,65,55,1+1,4,1,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,9500 
+Flat,115,85,2+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),1,Available,No,Yes,Real Estate Agency,20500 
+Residence,58,50,1+1,Between 5-10,13,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,12500 
+Flat,21,16,Studio Flat (1+0),Between 16-20,1,5,Central Heating,1,None,Yes,No,Developer,5800 
+Flat,85,70,1+1,Between 5-10,Penthouse,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,10000 
+Residence,66,56,1+1,4,8,21,Central Heating (Share Meter),1,None,Not Specified,No,Real Estate Agency,17500 
+Flat,130,120,3+1,Between 5-10,2,5,Central Heating Boilers (Natural Gas),1,Available,Not Specified,No,Real Estate Agency,14000 
+Flat,80,65,2+1,Between 5-10,Ground Floor,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,6000 
+Flat,75,65,2+1,Between 5-10,Elevation 2,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,15000 
+Flat,70,60,1+1,Between 11-15,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,9500 
+Residence,62,53,1+1,Between 5-10,10,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,13000 
+Flat,90,75,2+1,0,Ground Floor,4,Central Heating Boilers (Natural Gas),None,Available,No,No,Real Estate Agency,19000 
+Flat,140,110,2+1,Between 16-20,1,4,Central Heating,1,Available,Yes,No,Owner,40000 
+Flat,95,90,3+1,Between 5-10,2,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13250 
+Flat,82,52,1+1,0,7,30 & Above,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,18000 
+Flat,61,40,1+1,Between 5-10,12,30 & Above,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,15500 
+Flat,120,100,3+1,Between 16-20,9,10,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,15000 
+Flat,150,125,3+1,Between 11-15,10,20,Central Heating (Share Meter),2,Available,No,Yes,Owner,32000 
+Flat,90,85,2+1,Between 5-10,Penthouse,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,10000 
+Residence,100,82,2+1,Between 5-10,23,24,Central Heating (Share Meter),1,None,No,Yes,Real Estate Agency,22000 
+Flat,130,115,3+1,Between 16-20,2,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,2500 
+Flat,130,110,3+1,Between 16-20,3,3,Central Heating Boilers (Natural Gas),2,Available,No,No,Owner,19000 
+Flat,90,75,2+1,Between 16-20,1,3,Heating Stoves,1,Available,Yes,No,Owner,3000 
+Flat,85,85,1+1,Between 5-10,3,4,Central Heating (Share Meter),1,None,Yes,Yes,Owner,12000 
+Flat,100,90,1+1,Between 16-20,3,4,Central Heating Boilers (Natural Gas),4,Available,Yes,No,Owner,4800 
+Flat,150,145,3+1,Between 16-20,3,4,Central Heating Boilers (Natural Gas),2,Available,Not Specified,No,Owner,15000 
+Flat,315,72,2+1,Between 5-10,1,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Owner,23500 
+Flat,70,50,Studio Flat (1+0),Between 11-15,Ground Floor,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Owner,7500 
+Flat,120,110,3+1,Between 16-20,Raised Ground Floor,10,Central Heating Boilers (Natural Gas),2,Available,Yes,No,Owner,4000 
+Flat,70,60,1+1,4,Garden-Floor,3,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,11250 
+Flat,70,65,2+1,Between 11-15,Penthouse,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Owner,2500 
+Flat,100,75,2+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,9250 
+Flat,129,113,3+1,0,2,4,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,45000 
+Flat,60,50,1+1,4,2,5,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13550 
+Flat,135,110,3+1,0,3,6,Central Heating Boilers (Natural Gas),2,Available,No,No,Real Estate Agency,20500 
+Flat,80,65,2+1,Between 5-10,4,4,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,9250 
+Flat,85,70,1+1,4,2,4,Central Heating Boilers (Natural Gas),1,Available,Yes,No,Real Estate Agency,13550 
+Flat,30,25,Studio Flat (1+0),3,3,6,Central Heating,1,None,Yes,No,Real Estate Agency,10000 
+Flat,63,45,1+1,0,12,15,Central Heating,1,None,No,Yes,Real Estate Agency,12900 
+Flat,112,80,2+1,Between 5-10,10,18,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,20500 
+Flat,141,98,2+1,0,2,30 & Above,Central Heating (Share Meter),2,Available,Yes,Yes,Real Estate Agency,25500 
+Flat,125,110,3+1,Between 5-10,2,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,20000 
+Flat,65,60,1+1,Between 5-10,Penthouse,3,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,8500 
+Flat,43,32,Studio Flat (1+0),Between 5-10,24,24,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,11500 
+Flat,70,55,2+1,Between 5-10,Garden-Floor,6,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,16000 
+Flat,48,33,Studio Flat (1+0),Between 5-10,8,19,Fan Coil Unit,1,None,Yes,Yes,Real Estate Agency,9750 
+Flat,55,50,1+1,4,2,4,Central Heating Boilers (Natural Gas),1,None,No,No,Real Estate Agency,12500 
+Flat,65,55,2+1,1,2,4,Central Heating (Share Meter),1,None,No,No,Real Estate Agency,15000 
+Flat,55,40,1+1,Between 5-10,Garden-Floor,5,Central Heating Boilers (Natural Gas),1,Available,No,No,Real Estate Agency,13000 
+Flat,60,50,1+1,4,Raised Ground Floor,4,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,15000 
+Flat,60,36,1+1,0,4,21,Floor Heating,1,Available,No,Yes,Real Estate Agency,19500 
+Flat,125,100,3+1,0,3,5,Central Heating Boilers (Natural Gas),2,Available,Not Specified,No,Real Estate Agency,21000 
+Flat,35,30,Studio Flat (1+0),Between 5-10,2,4,Central Heating Boilers (Natural Gas),1,None,Yes,No,Real Estate Agency,11500 
+Flat,82,51,1+1,Between 5-10,7,27,Central Heating (Share Meter),1,None,No,Yes,Developer,16000 
+Flat,59,41,1+1,0,2,7,Central Heating (Share Meter),1,Available,No,Yes,Real Estate Agency,12000 
+Flat,95,85,2+1,Between 5-10,Elevation 2,6,Central Heating Boilers (Natural Gas),1,Available,Not Specified,No,Owner,9000 
+Residence,102,67,2+1,4,9,29,Central Heating (Share Meter),1,None,Yes,Yes,Real Estate Agency,30000 
+Flat,125,115,3+1,Between 16-20,6,9,Central Heating Boilers (Natural Gas),1,Available,No,Yes,Real Estate Agency,11250 
+Flat,125,85,2+1,Between 5-10,26,29,Central Heating (Share Meter),2,Available,No,Yes,Real Estate Agency,30000 
+Flat,110,85,2.5+1,Between 5-10,3,3,Central Heating Boilers (Natural Gas),1,Available,No,No,Owner,19250 
